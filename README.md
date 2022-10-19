@@ -1,2 +1,2 @@
 # Hello-world
-这是一个学习的仓库
+qcustomPlot的一个学习例子
